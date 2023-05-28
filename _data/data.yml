@@ -56,22 +56,22 @@ career-profile:
      Possessing a strong academic background, coupled with a passion for technology and problem-solving, I am eager to contribute my skills and gain practical experience in a dynamic software engineering environment.
      With a dedication to continuous learning and a commitment to excellence, I am prepared to make a positive impact as an intern in the field of software engineering.
 education:
-    title: Education
-    info:
-      - degree: BS in Computer Science and Engineering
-        university: Sungkyunkwan University
-        time: 2020 - 2024
-        details: >
+title: Education
+info:
+- degree: BS in Computer Science and Engineering
+university: Sungkyunkwan University
+time: 2020 - 2024
+details: >
 Sungkyunkwan University's Computer Science and Engineering program is highly regarded for its excellence in education and research.
 With a comprehensive curriculum that combines theoretical knowledge and practical skills, the program equips students with a solid foundation in computer science principles and engineering practices.
 The university's state-of-the-art facilities and experienced faculty members create an environment conducive to innovation, enabling students to thrive and develop their expertise in the rapidly evolving field of computer science and engineering.
 experiences:
-    title: Experience
-    info:
-      - role: Relevant Coursework
-        time: 2020 - 2024
-        company: Sungkyunkwan Univeristy
-        details: |
+title: Experience
+info:
+- role: Relevant Coursework
+time: 2020 - 2024
+company: Sungkyunkwan Univeristy
+details: |
 Algorithms, Data Structures, Problem Solving Techniques, Operating Systems, Computer Architectures, Artificial Intelligence, Open-source Software
    
 projects:
