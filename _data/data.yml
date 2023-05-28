@@ -3,7 +3,7 @@
 #
 
 sidebar:
-    about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
+    about: false # set to False or comment line if you want to remove the "how to use?" in the sidebar
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
@@ -76,132 +76,104 @@ education:
 experiences:
     title: Experiences
     info:
-      - role: Lead Developer
-        time: 2015 - Present
-        company: Startup Hubs, San Francisco
+      - role: Coursework
+        time: 2020 - Present
+        company: Sungkyunkwan University
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-          enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-          error sit voluptatem accusantium doloremque laudantium, totam rem
-          aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-          architecto beatae vitae dicta sunt explicabo.
-            - Bullet point
-            - Bullet point
-      - role: Senior Software Engineer
-        time: 2014 - 2015
-        company: Google, London
+          Algorithms, Data Structures, Problem Solving Techniques, Operating Systems, Computer Architectures, Artificial Intelligence, Open-source Software, among others
+      - role: 
+        time: 
+        company: 
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
-      - role: UI Developer
-        time: 2012 - 2014
-        company: Amazon, London
+          
+      - role:
+        time: 
+        company: 
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
+          
 projects:
     title: Projects
     intro: >
-      You can list your side projects in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+      Through various projects, I have actively honed my programming skills and delved deeper into multiple languages and frameworks. These hands-on experiences have provided invaluable opportunities to apply theoretical knowledge to practical scenarios, enhancing my understanding and proficiency. Working on these projects has not only expanded my technical repertoire but also sharpened my problem-solving abilities and fostered a strong foundation for future endeavors in the dynamic world of software development.
     assignments:
-      - title: Velocity
+      - title: Web Development - HTML, CSS, JavaScript
         link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+        tagline: "I have created various websites utilizing HTML, CSS, and JavaScript, along with popular frameworks such as jQuery, Bootstrap, Node.js, and React.js. These projects have allowed me to showcase my creativity and technical skills, bringing ideas to life through engaging and interactive web experiences. By leveraging the power of these languages and frameworks, I have been able to build responsive and visually appealing websites while ensuring seamless functionality and optimal user experiences. These experiences have not only deepened my understanding of web development principles but also equipped me with the ability to adapt and embrace emerging technologies in this ever-evolving field."
 
-      - title: DevStudio
+      - title: Java Programming
         link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+        tagline: "I have developed various programs using the versatile language Java and the Swing GUI framework. These programs have allowed me to explore the realm of graphical user interfaces (GUIs) and build intuitive applications with rich user experiences. By leveraging Java's robust features and the flexibility of Swing, I have created interactive applications that cater to specific needs, ranging from data management tools to multimedia players. These experiences have deepened my understanding of software development principles and honed my problem-solving skills, equipping me with the ability to design and implement user-friendly applications using Java and GUI frameworks effectively."
 
-      - title: Tempo
+      - title: Pygame
         link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+        tagline: "With my knowledge of Python, I embarked on a journey to revamp and remix small games using the Pygame library. Through this process, I was able to combine my passion for coding and gaming, breathing new life into classic games and adding my own creative twists. Utilizing Python's versatility and Pygame's game development capabilities, I enhanced gameplay mechanics, improved graphics, and introduced unique features to create engaging and entertaining experiences. This endeavor not only expanded my Python programming skills but also deepened my understanding of game development principles. By remixing these small games, I challenged myself to think outside the box and explore innovative ways to entertain and captivate players."
 
-      - title: Atom
+      - title: Reverse Engineering - VMs, Linux, Shell Scripting
         link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+        tagline: "During a fascinating project of reverse engineering Assembly code, I embarked on a journey that introduced me to the intricacies of low-level programming. This endeavor allowed me to delve into the inner workings of software and understand how machine instructions are executed. Throughout the process, I gained proficiency in Linux by extensively utilizing virtual machines, mastering the Linux terminal, and honing my skills in shell scripting, particularly in Bash. This hands-on experience not only enhanced my technical capabilities but also provided me with a deeper understanding of system-level programming and the power of Linux as an operating system.."
 
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+      - title: 
+        link: 
+        tagline: 
 
 oss:
-    title: OSS Contributions
+    title: 
     intro: >
-      You can list your open source software contributions in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+      
     contributions:
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+      - title: 
+        link: 
+        tagline: 
 
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+      - title: 
+        link: 
+        tagline: 
 
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+      - title: 
+        link: 
+        tagline: 
 
 publications:
-    title: Publications
+    title: 
     intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
+      
     papers:
-      - title: The Art of Computer Programming
-        link: "#"
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
+      - title: 
+        link: 
+        authors: 
+        conference: 
 
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        link: "#"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
+      - title: 
+        link: 
+        authors: 
+        conference: 
 
-      - title: A syntax directed compiler for Algol 60
-        link: "#"
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
+      - title: 
+        link: 
+        authors: 
+        conference: 
 
 skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
-        level: 98%
+      - name: C/C++
+        level: 80%
 
-      - name: Javascript & jQuery
-        level: 98%
+      - name: Java
+        level: 80%
 
-      - name: Angular
-        level: 98%
+      - name: HTML, CSS, JavaScipt
+        level: 90%
 
-      - name: HTML5 & CSS
-        level: 95%
+      - name: Git
+        level: 65%
 
-      - name: Ruby on Rails
-        level: 85%
+      - name: GitHub, Docker
+        level: 75%
 
-      - name: Sketch & Photoshop
-        level: 60%
+      - name: MySQL
+        level: 50%
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
