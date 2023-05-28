@@ -4,7 +4,7 @@
 
 sidebar:
     about: false # set to False or comment line if you want to remove the "how to use?" in the sidebar
-    education: True # set to False if you want education in main section instead of in sidebar
+    education: false # set to False if you want education in main section instead of in sidebar
 
     # Profile information
     name: Ramon Arias
@@ -47,7 +47,7 @@ sidebar:
         - item: Video Games
           link:
 
-        - item: Web Programming
+        - item: Web Development
           link:
 
         - item: Fitness & Bodybuilding
@@ -94,7 +94,7 @@ experiences:
 projects:
     title: Projects
     intro: >
-      Through various projects, I have actively honed my programming skills and delved deeper into multiple languages and frameworks. These hands-on experiences have provided invaluable opportunities to apply theoretical knowledge to practical scenarios, enhancing my understanding and proficiency. Working on these projects has not only expanded my technical repertoire but also sharpened my problem-solving abilities and fostered a strong foundation for future endeavors in the dynamic world of software development.
+      
     assignments:
       - title: Web Development - HTML, CSS, JavaScript
         link: "#hook"
@@ -115,43 +115,7 @@ projects:
       - title: 
         link: 
         tagline: 
-
-oss:
-    title: 
-    intro: >
-      
-    contributions:
-      - title: 
-        link: 
-        tagline: 
-
-      - title: 
-        link: 
-        tagline: 
-
-      - title: 
-        link: 
-        tagline: 
-
-publications:
-    title: 
-    intro: |
-      
-    papers:
-      - title: 
-        link: 
-        authors: 
-        conference: 
-
-      - title: 
-        link: 
-        authors: 
-        conference: 
-
-      - title: 
-        link: 
-        authors: 
-        conference: 
+ 
 
 skills:
     title: Skills &amp; Proficiency
