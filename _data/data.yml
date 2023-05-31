@@ -110,11 +110,11 @@ projects:
 
       - title: Reverse Engineering - VMs, Linux, Shell Scripting
         link: "#"
-        tagline: "During a fascinating project of reverse engineering Assembly code, I embarked on a journey that introduced me to the intricacies of low-level programming. This endeavor allowed me to delve into the inner workings of software and understand how machine instructions are executed. Throughout the process, I gained proficiency in Linux by extensively utilizing virtual machines, mastering the Linux terminal, and honing my skills in shell scripting, particularly in Bash. This hands-on experience not only enhanced my technical capabilities but also provided me with a deeper understanding of system-level programming and the power of Linux as an operating system.."
+        tagline: "During a fascinating project of reverse engineering Assembly code, I embarked on a journey that introduced me to the intricacies of low-level programming. This endeavor allowed me to delve into the inner workings of software and understand how machine instructions are executed. Throughout the process, I gained proficiency in Linux by extensively utilizing virtual machines, mastering the Linux terminal, and honing my skills in shell scripting, particularly in Bash. This hands-on experience not only enhanced my technical capabilities but also provided me with a deeper understanding of system-level programming and the power of Linux as an operating system."
 
-      - title: 
+      - title: Pac-Man Project - Python
         link: 
-        tagline: 
+        tagline: "By working on UC Berkeley's Pac-Man project, I gained a deeper understanding of Python, algorithms, and AI. The project materials provided a hands-on experience where I implemented various techniques to control Pac-Man's behavior in a dynamic game environment. This project enhanced my problem-solving skills and exposed me to concepts like search algorithms, reinforcement learning, and intelligent ghost behaviors. Overall, it expanded my technical abilities and sparked my passion for exploring the intersection of Python, algorithms, and AI."
         
 publications:
     title: Achievements
