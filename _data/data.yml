@@ -27,7 +27,7 @@ sidebar:
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
-    pdf: https://docs.google.com/document/d/1_AMp1x0mMfx5sgI89FMQgWpSx_EwYE27XhhTWhfi-xE/edit?usp=sharing
+    pdf: 
 
     languages:
       title: Languages
@@ -44,21 +44,21 @@ sidebar:
     interests:
       title: Interests
       info:
-        - item: Video Games
+        - item: AI
           link:
 
         - item: Web Development
           link:
 
-        - item: Fitness & Bodybuilding
+        - item: App Development
           link:
 
 career-profile:
     title: Career Profile
     summary: |
-      Motivated Computer Science and Engineering student at one of South Korea's most prestigious universities, actively seeking a software engineering internship.
+      Motivated Computer Science and Engineering student at one of South Korea's most prestigious universities, currently working as a Software Engineer intern.
       Possessing a strong academic background, coupled with a passion for technology and problem-solving, I am eager to contribute my skills and gain practical experience in a dynamic software engineering environment.
-      With a dedication to continuous learning and a commitment to excellence, I am prepared to make a positive impact as an intern in the field of software engineering.
+      With a dedication to continuous learning and a commitment to excellence, I am prepared to make a positive impact in the field of software engineering.
 education:
     title: Education
     info:
@@ -77,14 +77,15 @@ experiences:
     title: Experiences
     info:
       - role: Coursework
-        time: 2020 - Present
+        time: August 2020 - Present
         company: Sungkyunkwan University
         details: |
           Algorithms, Data Structures, Problem Solving Techniques, Operating Systems, Computer Architectures, Artificial Intelligence, Open-source Software, among others
-      - role: 
-        time: 
-        company: 
+      - role: Software Engineer Intern
+        time: August 2023 - Present
+        company: Athena EdTech
         details: |
+            As a Software Engineer Intern at Athen EdTech, I've been focused on developing web applications using Angular and Node.js. Additionally, I've gained hands-on experience with APIs to enhance application functionality.
           
       - role:
         time: 
