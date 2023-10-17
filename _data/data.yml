@@ -97,10 +97,14 @@ projects:
     intro: >
       
     assignments:
+      - title: App Development - Flutter, Firebase, Android Studio, API development
+        link: "#hook"
+        tagline: "In my quest to simplify the dining decision-making process for both individuals and companies, I conceptualized and developed a cutting-edge Android application geared towards matching food enthusiasts with their next meal. The application boasts a user-centric interface, meticulously designed on Figma and brought to life with the Flutter framework. Beneath the surface, Firebase powers the backend, overseeing a seamless user registration and profile management system. Furthermore, to ensure our platform offers the most comprehensive restaurant recommendations, I innovated a Python-based web scraper that diligently fetches and integrates restaurant details from various websites into our database. This synergy of design, technology, and data makes our app a trusted ally for every food lover’s quest."
+        
       - title: Web Development - HTML, CSS, JavaScript
         link: "#hook"
         tagline: "I have created various websites utilizing HTML, CSS, and JavaScript, along with popular frameworks such as jQuery, Bootstrap, Node.js, and React.js. These projects have allowed me to showcase my creativity and technical skills, bringing ideas to life through engaging and interactive web experiences. By leveraging the power of these languages and frameworks, I have been able to build responsive and visually appealing websites while ensuring seamless functionality and optimal user experiences. These experiences have not only deepened my understanding of web development principles but also equipped me with the ability to adapt and embrace emerging technologies in this ever-evolving field."
-
+      
       - title: Java Programming
         link: "#"
         tagline: "I have developed various programs using the versatile language Java and the Swing GUI framework. These programs have allowed me to explore the realm of graphical user interfaces (GUIs) and build intuitive applications with rich user experiences. By leveraging Java's robust features and the flexibility of Swing, I have created interactive applications that cater to specific needs, ranging from data management tools to multimedia players. These experiences have deepened my understanding of software development principles and honed my problem-solving skills, equipping me with the ability to design and implement user-friendly applications using Java and GUI frameworks effectively."
